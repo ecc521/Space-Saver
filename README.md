@@ -1,11 +1,7 @@
-macOS Installation:
+Space Saver can save you tens of gigabytes of disk usage without deleting ANYTHING.
 
-Windows Installation:
+Current issues:
+macOS: There is not yet a way to prevent HFS+/APFS compression from happening, or to undo it, through the GUI
+macOS: HFS+/APFS compression will be re-done every time you run the application on a specific file
 
-Linux Installation:
-
-
-
-
-Space Saver needs external programs to implement some features
-These external programs are available under open source licenses. You may read more at readme.md in the External Programs directory
+Windows is not *yet* supported - don't worry - I'm working on it
