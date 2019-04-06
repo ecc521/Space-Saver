@@ -1,5 +1,4 @@
-Current releases are alpha - they may not work, be buggy, or be lacking features. This simply means that the application may fail to do anything - it does NOT mean that it is unsafe to run Space Saver on your files.
-
+Mac and Windows releases are beta. Linux releases are alpha. 
 
 Space Saver can save you tens of gigabytes of disk usage without deleting ANYTHING.
 
