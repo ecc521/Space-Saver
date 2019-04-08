@@ -1,4 +1,4 @@
-Mac and Windows releases are beta. Linux releases are alpha. 
+Releases are currently in beta (except for Linux RPM's - those aren't tested) 
 
 Space Saver can save you tens of gigabytes of disk usage without deleting ANYTHING.
 
