@@ -6,3 +6,4 @@ NOTE: You can't see the effects of compression on applications from Finder. Inst
 
 You can currently view the source code by opening the .asar archive.
 A license is not currently available, though I plan on releasing the source repository under a open source license once Space Saver gets out of extremely rapid development
+
