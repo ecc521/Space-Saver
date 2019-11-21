@@ -1,5 +1,3 @@
-Releases are currently in beta (except for Linux RPM's - those aren't tested) 
-
 Space Saver can save you tens of gigabytes of disk usage without deleting ANYTHING.
 
 NOTE: You can't see the effects of compression on applications from Finder. Instead, click on the Apple logo in the top left corner, go under "About this Mac", Click on Storage, and click "Manage"
